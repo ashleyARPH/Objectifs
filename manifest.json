@@ -1,0 +1,12 @@
+{
+  "name": "Objectifs",
+  "short_name": "Objectifs",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1EAE0",
+  "theme_color": "#F1EAE0",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
